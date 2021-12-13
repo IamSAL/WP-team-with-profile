@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/smb/plugins/wp-team-members-profile/frontend/build/static/css/main.css",
+    "main.js": "/smb/plugins/wp-team-members-profile/frontend/build/static/js/main.js",
+    "main.js.map": "/smb/plugins/wp-team-members-profile/frontend/build/static/js/main.js.map",
+    "index.html": "/smb/plugins/wp-team-members-profile/frontend/build/index.html",
+    "static/css/main.css.map": "/smb/plugins/wp-team-members-profile/frontend/build/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/smb/plugins/wp-team-members-profile/frontend/build/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
