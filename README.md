@@ -1,17 +1,14 @@
 # Wp Team Members Profile WordPress Plugin
 
-![Plugin Settings Form](https://blog.wplauncher.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-05-at-2.41.54-PM.png)
+This is a simple WordPress plugin that creates Team Members Profile. 
 
-This is a simple WordPress plugin that creates a Wp Team Members Profile. The Wp Team Members Profile allows WordPress admin users to add their settings for a plugin.
+You can use this to add/edit/delete team members info(name,designation,photo,description) from dashboard. and put the short code [wp_team_member_frontend] in any page to see the output.
 
-You can use this skeleton to add a Wp Team Members Profile to your plugin. This plugin does the following:
+![WhatsApp Image 2021-12-13 at 6 17 34 AM](https://user-images.githubusercontent.com/34414233/145736074-2f2706e0-bb84-417c-9026-b3ae480384c8.jpeg)
 
-- Adds an admin menu item to the left sidebar in the WordPress admin dashboard along with a submenu item including your Wp Team Members Profile
-- Creates a Wp Team Members Profile that includes a form
-- Saves that form to the database
-- Makes sure the settings form fields are pre-populated if it has already been filled out
+![WhatsApp Image 2021-12-12 at 4 24 37 AM](https://user-images.githubusercontent.com/34414233/145736078-65e596e2-fe0f-475b-811c-0e699d98af85.jpeg)
 
-Check out our [blog post](https://blog.wplauncher.com/create-wordpress-plugin-wp-team-members-profile/) to get step by step instructions on [how to add a Wp Team Members Profile to your WordPress plugin](https://blog.wplauncher.com/create-wordpress-plugin-wp-team-members-profile/). The Wp Team Members Profile plugin is using the [WordPress Plugin Boilerplate framework](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) and we used [WWPB.me](https://wppb.me/) to generate a version with the wp-team-members-profile namespaces.
+![image](https://user-images.githubusercontent.com/34414233/145736129-f10520cc-c7a9-4102-a933-713453135442.png)
 
 ## Install the Wp Team Members Profile Plugin on Your WordPress Site to See What you Get
 
@@ -22,4 +19,4 @@ Check out our [blog post](https://blog.wplauncher.com/create-wordpress-plugin-wp
 5. Click on Upload and Upload the zip file that you just downloaded
 6. Activate the plugin
 
-After installation, you should see the Wp Team Members Profile in the left sidebar and when you click on the Wp Team Members Profile, you should see a form that saves to the database and is prefilled when the page is reloaded.
+
