@@ -9,6 +9,7 @@ You can use this to add/edit/delete team members info(name,designation,photo,des
 ![WhatsApp Image 2021-12-12 at 4 24 37 AM](https://user-images.githubusercontent.com/34414233/145736078-65e596e2-fe0f-475b-811c-0e699d98af85.jpeg)
 
 ![image](https://user-images.githubusercontent.com/34414233/145736129-f10520cc-c7a9-4102-a933-713453135442.png)
+![image](https://user-images.githubusercontent.com/34414233/146171798-b9041116-d7fa-43d6-8099-6db138e58c28.png)
 
 ## Install the Wp Team Members Profile Plugin on Your WordPress Site to See What you Get
 
