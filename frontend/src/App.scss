@@ -1,0 +1,124 @@
+// @import url(//fonts.googleapis.com/css?family=Montserrat:300,500);
+
+#wp_team_member_frontend {
+  .team4 {
+    font-family: "Montserrat", sans-serif;
+    color: #8d97ad;
+    font-weight: 300;
+    background-color: #3b4656;
+  }
+
+  .team4 h1,
+  .team4 h2,
+  .team4 h3,
+  .team4 h4,
+  .team4 h5,
+  .team4 h6 {
+    color: #3e4555;
+  }
+
+  .team4 .font-weight-medium {
+    font-weight: 500;
+  }
+
+  .team4 h5 {
+    font-family: "Odor Mean Chey", Sans-serif;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    color: white;
+  }
+
+  .team4 .subtitle {
+    color: #f6a623;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.6em;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 1em;
+  }
+  .team4 .profile_image_container {
+    padding: 8px;
+  }
+  .team4 .profile_image {
+    transition: 0.2s;
+    cursor: pointer;
+    max-width: 100%;
+    border: 3px solid #ffffff;
+  }
+
+  .team4 .profile_image:hover {
+    border: 3px solid #f6a623;
+  }
+  /* .swiper-wrapper {
+    display: flex;
+  } */
+}
+
+.member_modal {
+  max-width: 80vw !important;
+  .modal-dialog.member_modal .modal-content {
+    width: 70vw;
+    height: 75vh;
+  }
+
+  .modal-dialog.member_modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .modal-content {
+    .dialog-close-button.dialog-lightbox-close-button {
+      i {
+        color: #f6a623;
+      }
+      padding: 5px;
+      width: 30px;
+      height: 30px;
+      position: absolute;
+      right: 30px;
+    }
+
+    background-color: #3b4656;
+    border-radius: 0;
+    border: 4px solid #f6a623;
+  }
+
+  .subtitle {
+    color: #f6a623;
+  }
+
+  p.member_description {
+    color: white;
+    padding: 58px 0px;
+    max-height: 390px;
+    overflow: auto;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .member_modal {
+    max-width: 100vw !important;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #01030a7c;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f6a5239d;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

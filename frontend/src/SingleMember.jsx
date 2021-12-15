@@ -1,13 +1,17 @@
 import React from "react";
 
-const SingleMember = ({ member }) => {
+const SingleMember = ({ member, toggle, setcurrentMember }) => {
   return (
     <>
       <div className="col-md-12 profile_image_container">
         <img
           src={member.image}
-          alt="wrapkit"
+          alt={member.name}
           className="img-fluid rounded-circle profile_image"
+          onClick={() => {
+            setcurrentMember(member);
+            toggle();
+          }}
         />
       </div>
       <div className="col-md-12 text-center">
